@@ -1,0 +1,3 @@
+cd truth-tracker-frontend
+npm install
+npm run dev
